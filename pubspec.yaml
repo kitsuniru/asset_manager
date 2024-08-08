@@ -15,7 +15,7 @@ dependencies:
   path: ^1.8.3
   pub_updater: ^0.2.2
 executables:
-  asset_manager:
+  asset_manager: asset_manager
 
 dev_dependencies:
   lints: ^2.0.0
